@@ -70,14 +70,8 @@ holiday_hash.each do |season, h|
   puts "#{new_str}:" "#{supply_str}"
   
   end
+ end
 end
-
-
-
-
-end
-
-
 
 
 def all_holidays_with_bbq(holiday_hash)
